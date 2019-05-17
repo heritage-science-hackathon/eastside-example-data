@@ -1,6 +1,6 @@
 # ECH example data
 
-In the file above you will find examples of transcripts collected for each project that ECH undertake.
+In the files above you will find examples of transcripts collected fora selection of ECH projects.
 Each file has a specific naming convention, that is matched by the audio file for each transcript in a separate folder on the computer.
 
 
