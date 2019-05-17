@@ -1,5 +1,4 @@
-# eastsite-example-data
-example data for Eastside Community Heritage
+# ECH example data
 
 In the file above you will find examples of transcripts collected for each project that ECH undertake.
 Each file has a specific naming convention, that is matched by the audio file for each transcript in a separate folder on the computer.
